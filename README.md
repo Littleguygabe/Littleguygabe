@@ -1,0 +1,3 @@
+- **Languages:** Haskell, OCaml/HardCaml, C++, Python
+- **Interests:** Functional programming, low-latency trading infra, quant finance
+- **Currently working on:** [Probabilistically Guided Genetic Programming for Automated Heuristic Design](https://github.com/Littleguygabe/haskell-meta-optimisation-dsl) (undergrad diss topic)
